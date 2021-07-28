@@ -4,4 +4,5 @@ To run my code, navigate into a specific code snapshot folder via the cd command
 Then run npm install to install all required dependencies (this will create a /node_modules folder).
 To run the code in your browser run command npm start in your terminal.
 
+Application Page Interface look like-
 
